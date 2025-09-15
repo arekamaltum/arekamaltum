@@ -1,17 +1,73 @@
 <h1 align="center">Hi 👋, I'm Kamal Kumar</h1>
-<h3 align="center">A passionate full stack developer </h3>
+<h3 align="center">A passionate Full Stack Developer | AI & Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arekamaltum&label=Profile%20views&color=0e75b6&style=flat" alt="arekamaltum" /> </p>
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **react,node.js,Express.js**
-
-- 📫 How to reach me **kamalyaduvanshi0987@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamal-kumar-aa75ab266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kamal%20Kumar-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/arekamaltum">
+    <img src="https://img.shields.io/badge/GitHub-arekamaltum-black?logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arekamaltum&label=Profile%20Views&color=0e75b6&style=flat" alt="arekamaltum" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 **B.Tech (CSE – AI & DS)** @ Galgotia’s College of Engineering and Technology (2022 – 2026)  
+- 🌱 Currently exploring **Advanced MERN Stack, AI & Machine Learning**  
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs**  
+- 🏆 Achieved **95+ Google Lighthouse performance scores** on full-stack projects  
+- 📫 Reach me at **kamalyaduvanshi0987@gmail.com**
+
+---
+
+### 🚀 Projects
+- **[Tomato – Food Delivery Website](https://tomato-app-tawny.vercel.app/)**  
+  MERN Stack, JWT Auth, Stripe Integration, Render + Vercel Deployment  
+  > Scalable platform with admin, client & server modules, secure auth, and dynamic cart/order system.
+
+- **[FreeEcosystem – E-Commerce Platform](https://free-ecosystem-fgl7.vercel.app/)**  
+  MERN Stack, REST APIs, JWT Auth, MongoDB  
+  > Optimized for performance & accessibility (95+ Lighthouse score).
+
+- **[Tech-Pro – Web Hosting Service](https://tech-pro-6.vercel.app/)**  
+  React.js, Tailwind CSS  
+  > SEO-friendly, component-based design with responsive UI.
+
+---
+
+### 🛠️ Skills & Tools
+**Languages:** Java, C, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3  
+**Frontend:** React.js, Tailwind CSS, Bootstrap, Responsive Design  
+**Backend:** Node.js, Express.js, JWT Auth, REST APIs  
+**Database:** MongoDB, NoSQL Design, CRUD Ops  
+**Others:** Git/GitHub, Postman, Socket.IO, npm, Performance Optimization, SEO
+
+---
+
+### 📜 Certifications
+- **Data Structures & Algorithms (Java)** – Apna College  
+- **Full Stack Web Development (MERN Stack)** – Coding Blocks  
+
+---
+
+### 🌟 Achievements
+- 🚀 Built & deployed **3+ full-stack apps** with production-grade architecture  
+- 🔥 Maintained **95+ Lighthouse scores** for performance & accessibility  
+- 🤝 Collaborative experience with RESTful APIs, scalable backends & modern UI design
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arekamaltum&show_icons=true&theme=radical" alt="Kamal's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekamaltum&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+⭐️ *“Code with clarity, build with purpose.”*
